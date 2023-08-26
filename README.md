@@ -1,1 +1,5 @@
-# liquid_clustering
+# Delta Lake Liquid Clustering analysis
+
+First impressions
+
+More information [here]()
